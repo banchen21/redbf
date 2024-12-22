@@ -30,9 +30,9 @@ document.writeln(`
                     <a class="nav-link dropdown-toggle page-scroll" href="./index.html#list" id="navbarDropdown"
                         role="button" aria-haspopup="true" aria-expanded="false">服务器列表</a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="spigotserver.html"><span class="item-text">纯净生存 <script type="text/javascript" src="./pageJs/version.js"></script> </span></a>
+                        <a class="dropdown-item" href="forgeserver.html"><span class="item-text">模组生存 <script type="text/javascript" src="./pageJs/version.js"></script> </span></a>
                         <div class="dropdown-items-divide-hr"></div>
-                        <a class="dropdown-item" href="modserver.html"><span class="item-text">模组空岛1.7.10</span></a>
+                        <a class="dropdown-item" href="modserver.html"><span class="item-text">互通生存1.20.1</span></a>
                     </div>
                 </li>
                 <li class="nav-item">
